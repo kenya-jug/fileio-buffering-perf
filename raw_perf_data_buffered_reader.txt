@@ -1,0 +1,153 @@
+Read: Processing Time: 36082ms : Buffer Size 1 bytes
+Write: Processing Time: 1660ms : Buffer Size 1 bytes
+Overall Read - Write: Processing Time: 1731102790154ms : Buffer Size 1 bytes
+
+---
+
+Read: Processing Time: 35941ms : Buffer Size 1 bytes
+Write: Processing Time: 1666ms : Buffer Size 1 bytes
+Overall Read - Write: Processing Time: 1731102882285ms : Buffer Size 1 bytes
+
+---
+
+Read: Processing Time: 34000ms : Buffer Size 10 bytes
+Write: Processing Time: 290ms : Buffer Size 10 bytes
+Overall Read - Write: Processing Time: 1731103096378ms : Buffer Size 10 bytes
+
+Read: Processing Time: 34002ms : Buffer Size 10 bytes
+Write: Processing Time: 289ms : Buffer Size 10 bytes
+Overall Read - Write: Processing Time: 1731103149295ms : Buffer Size 10 bytes
+
+Read: Processing Time: 33801ms : Buffer Size 10 bytes
+Write: Processing Time: 291ms : Buffer Size 10 bytes
+Overall Read - Write: Processing Time: 1731103216720ms : Buffer Size 10 bytes
+
+---
+
+Read: Processing Time: 34016ms : Buffer Size 100 bytes
+Write: Processing Time: 148ms : Buffer Size 100 bytes
+Overall Read - Write: Processing Time: 1731103271427ms : Buffer Size 100 bytes
+
+Read: Processing Time: 33861ms : Buffer Size 100 bytes
+Write: Processing Time: 148ms : Buffer Size 100 bytes
+Overall Read - Write: Processing Time: 1731103318429ms : Buffer Size 100 bytes
+
+Read: Processing Time: 33752ms : Buffer Size 100 bytes
+Write: Processing Time: 147ms : Buffer Size 100 bytes
+Overall Read - Write: Processing Time: 1731103392751ms : Buffer Size 100 bytes
+
+---
+
+Read: Processing Time: 33975ms : Buffer Size 1000 bytes
+Write: Processing Time: 41ms : Buffer Size 1000 bytes
+Overall Read - Write: Processing Time: 1731103505005ms : Buffer Size 1000 bytes
+
+Read: Processing Time: 33873ms : Buffer Size 1000 bytes
+Write: Processing Time: 40ms : Buffer Size 1000 bytes
+Overall Read - Write: Processing Time: 1731103573135ms : Buffer Size 1000 bytes
+
+Read: Processing Time: 34055ms : Buffer Size 1000 bytes
+Write: Processing Time: 42ms : Buffer Size 1000 bytes
+Overall Read - Write: Processing Time: 1731103626443ms : Buffer Size 1000 bytes
+
+---
+
+Read: Processing Time: 34045ms : Buffer Size 10000 bytes
+Write: Processing Time: 37ms : Buffer Size 10000 bytes
+Overall Read - Write: Processing Time: 1731103776698ms : Buffer Size 10000 bytes
+
+Read: Processing Time: 34054ms : Buffer Size 10000 bytes
+Write: Processing Time: 37ms : Buffer Size 10000 bytes
+Overall Read - Write: Processing Time: 1731103841364ms : Buffer Size 10000 bytes
+
+Read: Processing Time: 33629ms : Buffer Size 10000 bytes
+Write: Processing Time: 36ms : Buffer Size 10000 bytes
+Overall Read - Write: Processing Time: 1731103903965ms : Buffer Size 10000 bytes
+
+---
+
+Read: Processing Time: 33821ms : Buffer Size 50000 bytes
+Write: Processing Time: 36ms : Buffer Size 50000 bytes
+Overall Read - Write: Processing Time: 1731103966758ms : Buffer Size 50000 bytes
+
+Read: Processing Time: 33587ms : Buffer Size 50000 bytes
+Write: Processing Time: 36ms : Buffer Size 50000 bytes
+Overall Read - Write: Processing Time: 1731104016686ms : Buffer Size 50000 bytes
+
+Read: Processing Time: 33562ms : Buffer Size 50000 bytes
+Write: Processing Time: 36ms : Buffer Size 50000 bytes
+Overall Read - Write: Processing Time: 1731104062822ms : Buffer Size 50000 bytes
+
+---
+
+Read: Processing Time: 33843ms : Buffer Size 100000 bytes
+Write: Processing Time: 36ms : Buffer Size 100000 bytes
+Overall Read - Write: Processing Time: 1731104133003ms : Buffer Size 100000 bytes
+
+
+
+Read: Processing Time: 33536ms : Buffer Size 100000 bytes
+Write: Processing Time: 36ms : Buffer Size 100000 bytes
+Overall Read - Write: Processing Time: 1731104226295ms : Buffer Size 100000 bytes
+
+Read: Processing Time: 33814ms : Buffer Size 100000 bytes
+Write: Processing Time: 37ms : Buffer Size 100000 bytes
+Overall Read - Write: Processing Time: 1731104284642ms : Buffer Size 100000 bytes
+
+---
+
+Read: Processing Time: 33905ms : Buffer Size 500000 bytes
+Write: Processing Time: 37ms : Buffer Size 500000 bytes
+Overall Read - Write: Processing Time: 1731104430854ms : Buffer Size 500000 bytes
+
+Read: Processing Time: 33939ms : Buffer Size 500000 bytes
+Write: Processing Time: 37ms : Buffer Size 500000 bytes
+Overall Read - Write: Processing Time: 1731104494085ms : Buffer Size 500000 bytes
+
+Read: Processing Time: 33931ms : Buffer Size 500000 bytes
+Write: Processing Time: 37ms : Buffer Size 500000 bytes
+Overall Read - Write: Processing Time: 1731104548453ms : Buffer Size 500000 bytes
+
+---
+
+Read: Processing Time: 32410ms : Buffer Size 1000000 bytes
+Write: Processing Time: 36ms : Buffer Size 1000000 bytes
+Overall Read - Write: Processing Time: 1731104617138ms : Buffer Size 1000000 bytes
+
+Read: Processing Time: 33792ms : Buffer Size 1000000 bytes
+Write: Processing Time: 36ms : Buffer Size 1000000 bytes
+Overall Read - Write: Processing Time: 1731104670002ms : Buffer Size 1000000 bytes
+
+Read: Processing Time: 33772ms : Buffer Size 1000000 bytes
+Write: Processing Time: 36ms : Buffer Size 1000000 bytes
+Overall Read - Write: Processing Time: 1731104723324ms : Buffer Size 1000000 bytes
+
+---
+
+Read: Processing Time: 33935ms : Buffer Size 10000000 bytes
+Write: Processing Time: 36ms : Buffer Size 10000000 bytes
+Overall Read - Write: Processing Time: 1731104790202ms : Buffer Size 10000000 bytes
+
+
+
+Read: Processing Time: 33902ms : Buffer Size 10000000 bytes
+Write: Processing Time: 36ms : Buffer Size 10000000 bytes
+Overall Read - Write: Processing Time: 1731104838384ms : Buffer Size 10000000 bytes
+
+Read: Processing Time: 33683ms : Buffer Size 10000000 bytes
+Write: Processing Time: 34ms : Buffer Size 10000000 bytes
+Overall Read - Write: Processing Time: 1731104890054ms : Buffer Size 10000000 bytes
+
+---
+
+Read: Processing Time: 33946ms : Buffer Size 100000000 bytes
+Write: Processing Time: 38ms : Buffer Size 100000000 bytes
+Overall Read - Write: Processing Time: 1731104955935ms : Buffer Size 100000000 bytes
+
+Read: Processing Time: 33998ms : Buffer Size 100000000 bytes
+Write: Processing Time: 39ms : Buffer Size 100000000 bytes
+Overall Read - Write: Processing Time: 1731105011158ms : Buffer Size 100000000 bytes
+
+Read: Processing Time: 33141ms : Buffer Size 100000000 bytes
+Write: Processing Time: 41ms : Buffer Size 100000000 bytes
+Overall Read - Write: Processing Time: 1731105260945ms : Buffer Size 100000000 bytes
